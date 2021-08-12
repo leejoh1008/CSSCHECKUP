@@ -1,0 +1,31 @@
+.wrapper{
+    margin: 10px;
+}
+
+#welcome{
+    background-color: black;
+    text-align: center;
+    font-size: 55px;
+    color: red;
+    font-style: oblique;
+    font-family: fantasy;
+    font-stretch: expanded;
+}
+.rar{
+    text-align: center;
+    font-size: 14px;
+    color:darkred;
+    background-image:url(https://cdn1.dotesports.com/wp-content/uploads/2021/06/29084142/MTG-Dragon.jpg);
+    
+    width: 100%;
+    height:600px;
+}
+.victory{
+    border: 20px solid gold;
+        margin-top: 50 px;
+        margin-right: 250px;
+        margin-bottom: 200px;
+        margin-left: 200px;
+    padding: 20px 20px 20px 40px;
+    
+}
